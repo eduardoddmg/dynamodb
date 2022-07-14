@@ -2,10 +2,10 @@
 ## Introdução
 CRUD desenvolvido com Python e DynamoDB como requisito para obtenção de nota parcial da matéria de Banco de Dados do Curso de Ciência de Computaçao da Universidade Federal de Alagoas A.C. Simões<br><br>
 
-Grupo:
-Carlos Eduardo
-Eduardo Marques
-Luis Henrique
+Grupo:<br>
+Carlos Eduardo<br>
+Eduardo Marques<br>
+Luis Henrique<br>
 ## Requisitos para instalaçao
 * Python3
 * Pip3
